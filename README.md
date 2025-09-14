@@ -10,6 +10,10 @@ Many students, especially introverted or shy learners, face challenges in exam p
   3. Anxiety and stress due to unclear preparation strategies and lack of progress tracking.
   4. Overreliance on expensive coaching or scattered online resources without structured guidance.
 
+## Data:
+  1. In a study among secondary school students in Mysore District (100 students), 7% were “not so shy,” 79% were “moderately shy,” and 14% were “extremely shy.”.
+  2. In NCERT survey (January - March 2022), 28% of students said they are hesitant in asking questions.
+
 ## Super Coach System:
 An AI-powered personal exam mentor that provides:
 
@@ -32,7 +36,7 @@ D. Tracking & Analytics:
   2. Provides visual dashboards for self-assessment and tutor review (optional).
 
 E. Future Expansion:
-  1. Subject-specific AI agents (Physics, Maths, Biology, etc.) for deep tutoring.
+  1. Subject-specific AI solutions (Physics, Maths, Biology, etc.) for deep tutoring.
   2. Fully autonomous preparation system where students can succeed using only AI guidance and curated resources, reducing dependency on costly coaching.
 
 ## Impact:
@@ -40,3 +44,7 @@ E. Future Expansion:
   1. Empowers introverted/shy students to study confidently and efficiently.
   2. Reduces anxiety and improves performance through private, adaptive mentoring.
   3. Scalable and accessible system that can eventually support any exam or subject domain.
+
+## References:
+  1. The International Journal of Indian Psychology - https://ijip.in/articles/shyness-among-secondary-school-students/
+  2. Mental Health and Well-being of School Students – A Survey, 2022 – https://ncert.nic.in/pdf/Mental_Health_WSS_A_Survey_new.pdf
