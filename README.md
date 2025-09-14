@@ -1,7 +1,6 @@
 # Super-Coach
 Personalized AI Exam Mentor for Shy/ Introverted Students
 
-Extended Version (Vision + Full Coach)
 
 ## Problem:
 Many students, especially introverted or shy learners, face challenges in exam preparation:
